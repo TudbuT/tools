@@ -126,7 +126,7 @@ Navigation bar styles
     margin:0;
 }
 .topNav {
-    background-color:#6DAAD7;
+    background-color: #abd9fd;
     color:#202020;
     float:left;
     padding:0;
@@ -138,8 +138,7 @@ Navigation bar styles
     font-size:12px;
 }
 .bottomNav {
-    margin-top:10px;
-    background-color:#6DAAD7;
+    background-color: #abd9fd;
     color:#202020;
     float:left;
     padding:0;
